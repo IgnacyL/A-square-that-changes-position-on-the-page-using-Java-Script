@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+}
+div {
+  position: fixed;
+  height: 200px;
+  width: 200px;
+  cursor: pointer;
+  background-color: black;
+}
